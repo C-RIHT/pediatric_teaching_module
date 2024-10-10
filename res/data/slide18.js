@@ -1,0 +1,15 @@
+(function(){var loadHandler=window['sl_{3FB6D277-C07C-42BD-BFBD-434A956B3212}'];loadHandler&&loadHandler(17, '<div id="spr0_2865f070"><div id="spr1_2865f070" class="kern slide"><img id="img2_2865f070" src="data/img6.png" width="960px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_2865f070" class="kern slide"><a id="hl0_2865f070" href="#" onclick="document.getElementById(\'coreSpr_6631406\').getCore().processTriggerEffect(this);document.getElementById(\'coreSpr_6631406\').getCore().gotoSlide(6, this);return false;" style="left:-0.667px;top:-0.667px;"><img id="img0_2865f070" src="data/img80.png" width="961.5" height="721.5" alt="" style="left:-0.063px;top:-0.063px;"/></a><div id="spr3_2865f070" style="left:-0.667px;top:-0.667px;"><div style="width:0px;"><a id="hl1_2865f070" href="#" onclick="document.getElementById(\'coreSpr_6631406\').getCore().processTriggerEffect(this);document.getElementById(\'coreSpr_6631406\').getCore().gotoSlide(6, this);return false;"><span id="txt0_2865f070" data-width="41.656250" style="left:459.833px;top:345.168px;">Back</span></a></div></div><div id="spr4_2865f070" style="left:134.696px;top:108.33px;"><div id="svg1_2865f070" style="left:-0.667px;top:30.883px;"><svg width="678" height="470" viewBox="-0.667 -0.667 678 470"><path fill="#f2f2f2" stroke="#2f528f" stroke-width="1.333" stroke-linecap="butt" stroke-linejoin="round" d="M0.667,0.667 h674.704 v466.741 h-674.704 Z"/></svg></div><div id="spr5_2865f070" style="left:10.804px;top:41.67px;"><img id="img1_2865f070" src="data/img81.png" width="632.25" height="440.25" alt="A number that describes average size of circulating Red blood cells in the blood stream. Measured by formula:\
+\
+                                           MCV =  ℎ𝑒𝑚𝑎𝑡𝑜𝑐𝑟𝑖𝑡 𝑝𝑒𝑟𝑐𝑒𝑛𝑡 𝑥10 𝑟𝑒𝑑 𝑏𝑙𝑜𝑜𝑑 𝑐𝑒𝑙𝑙𝑠( 𝑚𝑖𝑙𝑖𝑜𝑛𝑠 𝑚𝑚3 𝑏𝑙𝑜𝑜𝑑) \
+\
+\
+    Nowadays measured by the Analyzers.\
+\
+For example, microcytic (&lt;70 fl), macrocytic (&gt;85 fl), or normocytic (72-79 fl).\
+High MCV red blood cells are larger\
+Low MCV red blood cells are smaller\
+\
+Limitations:-\
+After Blood transfusions\
+Mixed anemia (Folate deficiency where MCV should be high and Iron deficiency anemia where MCV should be low) So when both exists looking on MCV gives error\
+False Positives (When person’s sugar value is high, Cold agglutination disease), Paraproteinemia."/></div><div id="svg2_2865f070" style="left:-2px;top:-2px;"><svg width="681" height="37" viewBox="-2 -2 681 37"><path fill="#4472c4" stroke="#2f528f" stroke-width="1.333" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" d="M0.667,0.667 h674.704 v31.549 h-674.704 Z"/></svg></div><div id="spr6_2865f070"><div style="width:0px;"><span id="txt1_2865f070" data-width="373.828125" style="left:151.185px;top:5.83px;">Mean Corpuscular Volume (MCV)</span></div></div></div></div></div>', '{"s":[]}');})();
